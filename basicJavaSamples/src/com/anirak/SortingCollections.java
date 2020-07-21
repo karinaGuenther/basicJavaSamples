@@ -1,7 +1,7 @@
 /**
  * 
  */
-package main;
+package com.anirak;
 
 import java.util.Comparator;
 import java.util.HashMap;

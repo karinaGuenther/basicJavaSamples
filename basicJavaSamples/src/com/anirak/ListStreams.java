@@ -1,7 +1,7 @@
 /**
  * 
  */
-package main;
+package com.anirak;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -47,6 +47,7 @@ public class ListStreams
 				.filter(Objects::nonNull)
 				.map(this::doSomething)
 				.collect(Collectors.toList());
+
 	}
 
 	/**
